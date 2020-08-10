@@ -1,13 +1,13 @@
 @extends('adminlte::page')
 
-@section('title', 'Dashboard')
+@section('title', 'SGC Sistema de Gestão de Colaboradores - Dashboard')
 
 @section('content_header')
     <h1>Dashboard</h1>
 @stop
 
 @section('content')
-    <p>Welcome to this beautiful admin panel.</p>
+    <p>Bem-vindo ao painel de administração.</p>
 @stop
 
 @section('css')
